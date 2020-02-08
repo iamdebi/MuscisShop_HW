@@ -2,14 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="063cd24a-6e0a-4da7-85c3-985d967be4d5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Guitar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/IPlay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Instrument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Piano.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Trumpet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Violin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/InstrumentType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/GuitarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PianoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TrumpetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ViolinTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Guitar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Guitar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Instrument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Instrument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Piano.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Piano.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Trumpet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Trumpet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Violin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Violin.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +25,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
+        <option value="Kotlin File" />
         <option value="Class" />
       </list>
     </option>
@@ -55,6 +61,21 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="All in MusicShop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MusicShop" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in MusicShop" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
