@@ -36,4 +36,5 @@ public class TrumpetTest {
     public void canPlay(){
         assertEquals("I'm the sound of a trumpet", trumpet.play());
     }
+
 }

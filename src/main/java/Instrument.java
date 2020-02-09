@@ -3,6 +3,8 @@ public class Instrument{
     String material;
     String colour;
     InstrumentType type;
+    double buyPrice;
+    double sellPrice;
 
     public Instrument(String material, String colour, InstrumentType type) {
         this.material = material;

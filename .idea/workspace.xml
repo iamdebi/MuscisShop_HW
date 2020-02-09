@@ -2,18 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="063cd24a-6e0a-4da7-85c3-985d967be4d5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/InstrumentType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/GuitarTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PianoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TrumpetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ViolinTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AcousticGuitar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DrumSticks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GuitarString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ISell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MusicShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SheetMusic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ShopTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Guitar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Guitar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Instrument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Instrument.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Piano.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Piano.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Trumpet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Trumpet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Violin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Violin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/PianoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PianoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TrumpetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TrumpetTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ViolinTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ViolinTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Guitar.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Guitar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Instrument.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Instrument.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Piano.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Piano.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Trumpet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Trumpet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Violin.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Violin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/GuitarTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/GuitarTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/PianoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/PianoTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TrumpetTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TrumpetTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ViolinTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ViolinTest.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,9 +33,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
         <option value="Kotlin File" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
